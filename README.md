@@ -1,4 +1,5 @@
 React Mini Projects
+
 This repository contains a collection of mini-projects built using React.js.
 
 These projects were developed as part of my journey to learn and master React. Each project demonstrates my knowledge and experience with React concepts, from building dynamic user interfaces to managing state effectively.
