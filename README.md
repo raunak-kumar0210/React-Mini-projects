@@ -1,15 +1,15 @@
-### React Mini Projects
+# React Mini Projects
 
 This repository contains a collection of mini-projects built using React.js.
 
 These projects were developed as part of my journey to learn and master React. Each project demonstrates my knowledge and experience with React concepts, from building dynamic user interfaces to managing state effectively.
 
-# Features
+## Features
 - 🌟 Responsive UI for seamless interaction.
 - ⚡ State management implemented using React Hooks.
 - 📊 Dynamic data rendering to showcase interactivity and reactivity.
   
-# Tech Stack
+## Tech Stack
 
 - React.js
 - CSS or Styled Components
