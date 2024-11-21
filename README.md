@@ -4,9 +4,9 @@ This repository contains  mini-projects that I've built using React.js.
 I built these small projects while learning react and mastering it these showcase my knowledge and experience in React.
 
  Features
-[ "Responsive UI for seamless interaction."]
-["State management using React Hooks."]
-["Dynamic data rendering."]
+Responsive UI for seamless interaction.
+State management using React Hooks.
+Dynamic data rendering.
 
 Tech Stack
 React.js
